@@ -1,16 +1,16 @@
-.gradle
-/build/
+# Logs
 
-# Ignore Gradle GUI config
-gradle-app.setting
+logs
+_.log
+npm-debug.log_
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log\*
 
-# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
-!gradle-wrapper.jar
+# Diagnostic reports (https://nodejs.org/api/report.html)
 
-# Cache of project
-.gradletasknamecache
+report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
 
-<<<<<<< HEAD
 # Runtime data
 
 pids
@@ -116,7 +116,6 @@ dist
 # https://nextjs.org/blog/next-9-1#public-directory-support
 
 # public
-/node_modules
 
 # vuepress build output
 
@@ -141,7 +140,3 @@ dist
 # OSX
 
 .DS_Store
-=======
-# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
-# gradle/wrapper/gradle-wrapper.properties
->>>>>>> parent of 09bfb79 (First Commit)
