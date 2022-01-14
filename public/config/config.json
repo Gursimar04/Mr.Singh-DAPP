@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1bd8B86De708ad664D3ecC7aEd5B4e589A592678",
+  "SCAN_LINK": "https://polygonscan.com/address/0x1bd8B86De708ad664D3ecC7aEd5B4e589A592678",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Mr.Singh",
+  "SYMBOL": "Singh",
+  "MAX_SUPPLY": 2464,
+  "WEI_COST": 700000000000000000,
+  "DISPLAY_COST": 0.7,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mr-singh-2",
+  "SHOW_BACKGROUND": true
+}
